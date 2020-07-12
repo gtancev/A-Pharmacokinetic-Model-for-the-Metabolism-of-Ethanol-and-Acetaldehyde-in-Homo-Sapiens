@@ -1,4 +1,4 @@
-# Pharmacokinetic-Modeling-of-Ethanol-Degradation
+# A Pharmacokinetic Model for the Metabolism of Ethanol and Acetaldehyde in Homo Sapiens
 
 Despite the social graces of alcoholic beverages, one has to be performance-capable after a night
 of drinking. There are different questions that come up; how much can someone afford to drink
